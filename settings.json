@@ -1,0 +1,46 @@
+{
+  "metaTitle": "Maria Belo Brol",
+  "metaDescription": "My meta description.",
+  "name": "Maria Belo Brol",
+  "theme": "menu",
+  "avatarImage": "https://www.mariaclaudia.be/wp-content/uploads/2022/02/1642943655616_smaller.jpg",
+  "links": [
+    {
+      "url": "https://medium.com/@belobrol",
+      "text": "My Medium posts",
+      "img":"https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw",
+      "altText": "My Medium posts"
+    },
+    {
+      "url": "https://belobrol.com",
+      "text": "My personal blog",
+      "img": ""
+    }
+  ],
+  "social": {
+    "glitch": "",
+    "spotify": "",
+    "substack": "",
+    "dev": "",
+    "facebook": "https://www.facebook.com/profile.php?id=100076857577109",
+    "github": "",
+    "gitlab": "",
+    "hashnode": "",
+    "instagram": "https://www.instagram.com/mariabelobrol/",
+    "linkedin": "https://www.linkedin.com/in/maria-belo-brol-50555222a/",
+    "medium": "",
+    "patreon": "",
+    "pinterest": "https://www.pinterest.com/belobrol/",
+    "twitter": "https://twitter.com/belobrol",
+    "youtube": "",
+    "twitch": "",
+    "tiktok": "",
+    "podcast": "",
+    "soundcloud": "",
+    "bandcamp": "",
+    "mastodon": "",
+    "stackoverflow": "",
+    "kofi": "",
+    "email": "mariabelobrol@gmail.com"
+  }
+}
